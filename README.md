@@ -2,6 +2,7 @@
 
 var listOfAllKnownAuthors = []
 
+// creating class for BookStore
 class BookStore
 {
     constructor(name, address, owner)
