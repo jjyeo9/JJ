@@ -1,4 +1,4 @@
-# JJ
+# BookStore
 
 var listOfAllKnownAuthors = []
 
